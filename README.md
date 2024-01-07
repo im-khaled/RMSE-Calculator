@@ -1,4 +1,4 @@
-# Project - RMSE-Calculator using python
+# Project - RMSE-Calculator using Python
 
 # Year - 2023
 
